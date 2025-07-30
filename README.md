@@ -1,10 +1,3 @@
-# Portfolio
-Absolutely, Ayushi! 🙌
-Here's a **professional and clean `README.md` template** you can use for your GitHub portfolio project — feel free to customize as needed!
-
----
-
-### ✅ `README.md` for Your Streamlit Portfolio
 
 ```markdown
 # 💻 Ayushi Kumari - Interactive Portfolio
